@@ -1,10 +1,27 @@
 # 💫About Me :
-I'm currently working on a recommendation system to add as part of a project called Honeymoon. Honeymoon's purpose is to provide a detailed dashboard for a two-week trip to Europe. It'll contain travel routes of both inter-city transportation and city-to-city transportation such as trains & planes. Honeymoon will also track weather, ticket prices for air travel, and hotel/airbnb rental prices. Additionally, the project will hold information regarding the best attractions to go to and the best restaurants to eat at.
+Hello I'm Tori-Ann, nice to meet you! 
 
-I'm currently learning about sentiment analysis and learning from BCG's (Boston Consulting Group) Climate & Sustainability virtual experience program.
+## In Pursuit of Curiosity | Projects I've Done
+1. Research Paper PDF Summarizer 
+2. Word & N-gram frequency and plotting wordclouds to create a personalized and optimal group of words to learn in a different language (think: 80/20 rule)
+3. Used SQL to find cities that are best for workations/digital nomads by measuring metrics based on highest amount of sunshine hours, fastest WIFI speed, and rent that is ≤ 1200 British pounds. 
+
+## 🚧 Work-In-Progress Projects & Plans: 
+
+1. Google Data Analytics Professional Certificate
+  ✅ Course 1 - 3
+
+2. I'm working on a recommendation system to add as part of a project called Honeymoon. Honeymoon's purpose is to provide a detailed dashboard for a two-week trip to Europe. It'll contain travel routes of both inter-city transportation and city-to-city transportation such as trains & planes. Honeymoon will also track weather, ticket prices for air travel, and hotel/airbnb rental prices. Additionally, the project will hold information regarding the best attractions to go to and the best restaurants to eat at.
+
+## 🧭 Side Quests: 
+
+Right now, I'm learning about Sentiment Analysis & Predictive Analytics & Data Mining with R & Rattle
+
+## 📬 Conversation Starters: 
 
 Ask me about how and why I got into data analytics/science & machine learning!
 
+## 💬 Fun Fact: 
 Ever since I began bookbinding and making my own notebooks, I have more notebooks than I know what to do with.
 
 
