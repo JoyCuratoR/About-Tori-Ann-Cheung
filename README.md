@@ -2,7 +2,7 @@
 Hello I'm Tori-Ann, nice to meet you! 
 
 ## In Pursuit of Curiosity | Projects I've Done
-1. Research Paper PDF Summarizer 
+1. Built a Text Summarizer to outline the most important points of research papers in PDF format.
 2. Using word & n-gram frequency analysis, I built a personalized list of words and phrases that optimizes what to learn first in a foreign language. 
 3. Used SQL to find cities that are best for workations/digital nomads by measuring metrics based on highest amount of sunshine hours, fastest WIFI speed, and rent that is ≤ 1200 British pounds. 
 
