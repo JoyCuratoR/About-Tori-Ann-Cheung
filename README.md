@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello I'm Tori-Ann, nice to meet you! 
+Hello I'm Tori-Ann, nice to meet you! As a Passionate Data-Obsessed Analyst, who's curiosity ignited a learning journey that has no end, I synthesize complex data into insights and actionable recommendations in a way that professionals understand. 
 
 ## In Pursuit of Curiosity | Projects I've Done
 1. Built a Text Summarizer to outline the most important points of research papers in PDF format.
@@ -27,6 +27,8 @@ Ever since I began bookbinding and making my own notebooks, I have more notebook
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@toricheung) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@joycuratoR) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tori-ann-cheung)
 
 # 💻Tech Stack
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
