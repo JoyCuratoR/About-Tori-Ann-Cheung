@@ -11,10 +11,12 @@ Hello I'm Tori-Ann, nice to meet you! As a Passionate Data-Obsessed Analyst, who
 ## 🚧 Work-In-Progress Projects & Plans: 
 
 1. Google Data Analytics Professional Certificate
+
   ✅ Course 1 - 7
+  
   ⏳ Course 8: Capstone Project
   
-  For the capstone project, I'm analyzing data from the [EPA](https://www.epa.gov) about Green House Gas Emissions. The story will be crafted for an imaginary renewable energy non-profit, called Radiant Renewable Energy. For this project, Radiant's goals are to increase donor/sponsor loyalty and incite more recurring donations from existing donors/sponsors. To achieve this, the data analytics team will work with the marketing team to create reports that demonstrate results of lowered emissions. These reports will be mailed to Radiant's donors/sponsors so they can be updated with evidence of their combined efforts. Additionally, these letters will have a call-to-action for continued support and donations to achieve greater heights and goals.
+For the capstone project, I'm analyzing data from the [EPA](https://www.epa.gov) about Green House Gas Emissions. The story will be crafted for an imaginary renewable energy non-profit, called Radiant Renewable Energy. For this project, Radiant's goals are to increase donor/sponsor loyalty and incite more recurring donations from existing donors/sponsors. To achieve this, the data analytics team will work with the marketing team to create reports that demonstrate results of lowered emissions. These reports will be mailed to Radiant's donors/sponsors so they can be updated with evidence of their combined efforts. Additionally, these letters will have a call-to-action for continued support and donations to achieve greater heights and goals.
 
 2. I'm planning on building a recommendation system to add as part of a project called Honeymoon. Honeymoon's purpose is to provide a detailed dashboard for a two-week trip to Europe. It'll contain travel routes of both inter-city transportation and city-to-city transportation such as trains & planes. Honeymoon will also track weather, ticket prices for air travel, and hotel/airbnb rental prices. Additionally, the project will hold information regarding the best attractions to go to and the best restaurants to eat at.
 
