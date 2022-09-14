@@ -1,5 +1,9 @@
 # 💫About Me :
-Hello I'm Tori-Ann, nice to meet you! As a Passionate Data-Obsessed Analyst, who's curiosity ignited a learning journey that has no end, I synthesize complex data into insights and actionable recommendations in a way that professionals understand. 
+Hello I'm Tori-Ann, nice to meet you! As an insatiable learner who's curiosity ignited a learning journey that has no end, I design and develop solutions that combines the magic of data and creativity to inform professionals what the data is saying - like a data-whisperer.
+
+
+
+Moreover, I write articles about my data analytics journey and processes, as well as GitHub tutorials for original projects I've done. 
 
 ## In Pursuit of Curiosity | Projects I've Done
 1. Built a [Text Summarizer](https://github.com/JoyCuratoR/PDF-Document-Summarizer) to outline the most important points of research papers in PDF format.
@@ -16,9 +20,10 @@ Hello I'm Tori-Ann, nice to meet you! As a Passionate Data-Obsessed Analyst, who
   
   ⏳ Course 8: Capstone Project
   
-For the capstone project, I'm analyzing data from the [EPA](https://www.epa.gov) about Green House Gas Emissions. The story will be crafted for an imaginary renewable energy non-profit, called Radiant Renewable Energy. For this project, Radiant's goals are to increase donor/sponsor loyalty and incite more recurring donations from existing donors/sponsors. To achieve this, the data analytics team will work with the marketing team to create reports that demonstrate results of lowered emissions. These reports will be mailed to Radiant's donors/sponsors so they can be updated with evidence of their combined efforts. Additionally, these letters will have a call-to-action for continued support and donations to achieve greater heights and goals.
+For the capstone project, I'm analyzing data about Green House Gas Emissions gathered from the [EPA](https://www.epa.gov). This project is designed with an imaginary non-profit called Radiant Renewable Energy, who's goal is to help businesses lower their emissions output. The premise is that Radiant Renewable Energy is partnered with several high emission-producing facilities and every month these partners send Radiant reports on the amount of emissions generated which Radiant compiles into yearly emission reports for each partnered facility. 
 
-2. I'm planning on building a recommendation system to add as part of a project called Honeymoon. Honeymoon's purpose is to provide a detailed dashboard for a two-week trip to Europe. It'll contain travel routes of both inter-city transportation and city-to-city transportation such as trains & planes. Honeymoon will also track weather, ticket prices for air travel, and hotel/airbnb rental prices. Additionally, the project will hold information regarding the best attractions to go to and the best restaurants to eat at.
+To keep the non-profit funding, Radiant relies on donations from their loyal pool of sponsors and donors. And in order to increase Radiant's existing donor loyalty, I will work with the marketing team to compile a dashboard made up of the partnered facilities' emission reports to supporters via Radiant's website.
+
 
 ## 🧭 Side Quests: 
 
@@ -39,4 +44,3 @@ Ever since I began bookbinding and making my own notebooks, I have more notebook
 # 💻Tech Stack
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 
-[![Tori's Medium Blog](https://github-readme-medium.vercel.app/?username=toricheung)](https://medium.com/@toricheung)
