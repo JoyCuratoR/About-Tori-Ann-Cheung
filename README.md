@@ -2,21 +2,22 @@
 Hello I'm Tori-Ann, nice to meet you! 
 
 ## In Pursuit of Curiosity | Projects I've Done
-1. Built a [Text Summarizer](https://github.com/JoyCuratoR/PDF-Document-Summarizer) to outline the most important points of research papers in PDF format.
-2. Using word & n-gram frequency analysis, I built a personalized list of words and phrases that optimizes what to learn first in a foreign language. 
-3. Used SQL to find cities that are best for workations/digital nomads by measuring metrics based on highest amount of sunshine hours, fastest WIFI speed, and rent that is ≤ 1200 British pounds. 
-4. Built an [automated Twitter bot](https://github.com/JoyCuratoR/brainyquotebot) that scrapes 'quote of the day' from the website [BrainyQuote](https://www.brainyquote.com)
-5. Analyzed the [sentiment of Elden Ring's bosses](https://github.com/JoyCuratoR/Elden-Ring-Sentiment-Analysis-Guide) using Reddit data and how much the bosses' sentiment ration contributed to the overall sentiment of the game.
+1. As a way to volunteer my services to my local library, I gathered, organized, and analyzed Los Angeles County Library System to perform Resource Allocation Analysis. Check out the [project requirements](https://tori-ann.notion.site/Library-Resource-Allocation-Optimization-Work-In-Progress-a81ed799155c46fca469dac2d94a21fe).
+2. I built a typewriter simulator which is a text editor where you can't use the backspace. Try it out here: [Typewriter app](https://joycurator.github.io/TypewriterSimulator/)
+3. In part of completing the Google Data Analytics Certificate program, I created a capstone project to analyze Greenhouse Gas Emissions data from the Environmental Protection Agency. Find the full report here: [RPubs](https://rpubs.com/joycuratoR/RadiantEnergy)
+4. I analyzed AM Wedding Film Co. Facebook Ads data to identify and track Key Performance Identifiers and then based on the data insights, recommended actionable solutions that reduced marketing expenses by 5%.
+5. The game Elden Ring exploded in popularity in 2022 and many Reddit users had negative and positive thoughts about its game mechanics. So using Reddit's API, I parsed and cleaned qualitative data to conduct sentiment analysis to discover the impact of Elden Ring's boss mechanics. Find the tutorial here: [Elden Ring Sentiment Analysis Tutorial](https://github.com/JoyCuratoR/Elden-Ring-Sentiment-Analysis-Guide)
+6. I created an automated Twitter account that requests Twitter's API to tweet daily inspirational quotes. Find the account here: [@SunshinecatLeo](https://twitter.com/SunshinecatLeo) and [build your own automated account with my tutorial](https://github.com/JoyCuratoR/brainyquotebot).
 
- Google Data Analytics Professional Certificate
+7. Google Data Analytics Professional Certificate
 
-  ✅ Course 1 - 7
+   ✅ Course 1 - 7
   
-  ✅ Course 8: Capstone Project
+   ✅ Course 8: Capstone Project
   
-For the capstone project, I'm analyzing data about Green House Gas Emissions gathered from the [EPA](https://www.epa.gov). This project is designed with an imaginary non-profit called Radiant Renewable Energy, who's goal is to help businesses lower their emissions output. The premise is that Radiant Renewable Energy is partnered with several high emission-producing facilities and every month these partners send Radiant reports on the amount of emissions generated which Radiant compiles into yearly emission reports for each partnered facility. 
+   For the capstone project, I'm analyzing data about Green House Gas Emissions gathered from the [EPA](https://www.epa.gov). This project is designed  with an imaginary non-profit called Radiant Renewable Energy, who's goal is to help businesses lower their emissions output. The premise is that Radiant Renewable Energy is partnered with several high emission-producing facilities and every month these partners send Radiant reports on the amount of emissions generated which Radiant compiles into yearly emission reports for each partnered facility. 
 
-To keep the non-profit funding, Radiant relies on donations from their loyal pool of sponsors and donors. And in order to increase Radiant's existing donor loyalty, I will work with the marketing team to compile a dashboard made up of the partnered facilities' emission reports to supporters via Radiant's website.
+   To keep the non-profit funding, Radiant relies on donations from their loyal pool of sponsors and donors. And in order to increase Radiant's existing donor loyalty, I will work with the marketing team to compile a dashboard made up of the partnered facilities' emission reports to supporters via Radiant's website.
 
 ## 🚧 Work-In-Progress Projects & Plans: 
 
