@@ -1,9 +1,5 @@
 # 💫About Me :
-Hello I'm Tori-Ann, nice to meet you! As an insatiable learner who's curiosity ignited a learning journey that has no end, I design and develop solutions that combines the magic of data and creativity to inform professionals what the data is saying - like a data-whisperer.
-
-
-
-Moreover, I write articles about my data analytics journey and processes, as well as GitHub tutorials for original projects I've done. 
+Hello I'm Tori-Ann, nice to meet you! 
 
 ## In Pursuit of Curiosity | Projects I've Done
 1. Built a [Text Summarizer](https://github.com/JoyCuratoR/PDF-Document-Summarizer) to outline the most important points of research papers in PDF format.
@@ -12,22 +8,24 @@ Moreover, I write articles about my data analytics journey and processes, as wel
 4. Built an [automated Twitter bot](https://github.com/JoyCuratoR/brainyquotebot) that scrapes 'quote of the day' from the website [BrainyQuote](https://www.brainyquote.com)
 5. Analyzed the [sentiment of Elden Ring's bosses](https://github.com/JoyCuratoR/Elden-Ring-Sentiment-Analysis-Guide) using Reddit data and how much the bosses' sentiment ration contributed to the overall sentiment of the game.
 
-## 🚧 Work-In-Progress Projects & Plans: 
-
-1. Google Data Analytics Professional Certificate
+ Google Data Analytics Professional Certificate
 
   ✅ Course 1 - 7
   
-  ⏳ Course 8: Capstone Project
+  ✅ Course 8: Capstone Project
   
 For the capstone project, I'm analyzing data about Green House Gas Emissions gathered from the [EPA](https://www.epa.gov). This project is designed with an imaginary non-profit called Radiant Renewable Energy, who's goal is to help businesses lower their emissions output. The premise is that Radiant Renewable Energy is partnered with several high emission-producing facilities and every month these partners send Radiant reports on the amount of emissions generated which Radiant compiles into yearly emission reports for each partnered facility. 
 
 To keep the non-profit funding, Radiant relies on donations from their loyal pool of sponsors and donors. And in order to increase Radiant's existing donor loyalty, I will work with the marketing team to compile a dashboard made up of the partnered facilities' emission reports to supporters via Radiant's website.
 
+## 🚧 Work-In-Progress Projects & Plans: 
+
+1. Analyzing Los Angeles County Library System data to optimize their resource allocation. Here are the [project requirements](https://tori-ann.notion.site/Project-Requirements-c49fb8ca741544eb9a2cb0bb587fbcb0).
+
 
 ## 🧭 Side Quests: 
 
-Right now, as part of a self-created challenge on Twitter (#3skills6weeks), I'm learning 3 skills (tidyverse, SQL, Tableau/ggplot2) in 6 weeks.
+Learning Python via Coursera's Python for Everybody specialization.
 
 ## 📬 Conversation Starters: 
 
